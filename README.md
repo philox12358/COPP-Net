@@ -120,3 +120,16 @@ Run the code one by one to obtain the experimental results:
 ##### Supplement
 
 For experiments with other data sets and other experiment settings, please modify the relevant parameters.
+
+
+## Citing the Paper
+
+```bibtex
+@article{cheng2023no,
+  title={No-reference point cloud quality assessment via weighted patch quality prediction},
+  author={Cheng, Jun and Su, Honglei and Korhonen, Jari},
+  journal={The 35th International Conference on Software Engineering and Knowledge Engineering},
+  year={2023}
+}
+```
+
