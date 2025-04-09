@@ -2,6 +2,8 @@
 
 Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ksiresearchorg.ipage.com/seke/seke23paper/paper185.pdf)
 
+Conference: [SEKE 2023](https://ksiresearch.org/seke/seke23.html)
+
 <img src="./images/COPP-Net.png" width="800px"></img>
 
 This is the official implementation of **"No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction"**. It currently includes code for the point cloud quality assessment(PCQA).
@@ -122,8 +124,8 @@ Run the code one by one to obtain the experimental results:
 For experiments with other data sets and other experiment settings, please modify the relevant parameters.
 
 
-## Citing the Paper
-
+## Bibtex
+If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```bibtex
 @article{cheng2023no,
   title={No-reference point cloud quality assessment via weighted patch quality prediction},
