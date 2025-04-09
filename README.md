@@ -1,6 +1,6 @@
 # COPP-Net
 
-Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://arxiv.org/pdf/2305.07829.pdf)
+Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ksiresearchorg.ipage.com/seke/seke23paper/paper185.pdf)
 
 <img src="./images/COPP-Net.png" width="800px"></img>
 
