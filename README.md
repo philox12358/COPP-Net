@@ -2,7 +2,7 @@
 
 Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ksiresearchorg.ipage.com/seke/seke23paper/paper185.pdf)
 
-Conference:  [SEKE 2023](https://ksiresearch.org/seke/seke23.html)  The Best Paper
+Conference:  [SEKE 2023](https://ksiresearch.org/seke/seke23.html)  One of the best papers.
 
 <img src="./images/COPP-Net.png" width="800px"></img>
 
