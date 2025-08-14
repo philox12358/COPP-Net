@@ -132,10 +132,11 @@ For experiments with other data sets and other experiment settings, please modif
 ## Bibtex
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```bibtex
-@article{cheng2023no,
-  title={No-reference point cloud quality assessment via weighted patch quality prediction},
+@inproceedings{cheng2023no,
+  title={No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction},
   author={Cheng, Jun and Su, Honglei and Korhonen, Jari},
-  journal={The 35th International Conference on Software Engineering and Knowledge Engineering},
+  booktitle={35th International Conference on Software Engineering and Knowledge Engineering, SEKE 2023},
+  pages={298--303},
   year={2023}
 }
 ```
