@@ -84,27 +84,19 @@ Please use the `rename_error_file.py` file in the folder to check the Correct na
 
 Please install `CUDA` and `cudnn` in advance. Our code can only run on GPU at present. In addition, `Anaconda` is recommended. `Python >= 3.8` is required, and the Python libraries that need to be installed are as follows:
 
-> torch
->
-> tqdm
->
-> xlrd
->
-> argparse
->
-> numpy
->
-> pandas
->
-> plyfile
->
-> multiprocessing
->
-> sklearn
->
-> scipy
->
-> open3d
+```sh
+torch
+tqdm
+xlrd
+argparse
+numpy
+pandas
+plyfile
+multiprocessing
+sklearn
+scipy
+open3d
+```
 
 The above Python libraries are sufficient as long as they do not conflict with each other and do not require specific versions.
 
