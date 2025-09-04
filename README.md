@@ -29,45 +29,28 @@ This is the official implementation of **"No-Reference Point Cloud Quality Asses
 
 Download this github repository to your computer, with the following folder structure:
 
-———— :file_folder: code
-
-———————— :snake: 1.1pc_to_patch.py
-
-———————— :snake: 1.2patch_list_create.py
-
-———————— :snake: 1.3train_ARKP.py
-
-———————— :snake: 2.1patch_list_rank.py
-
-———————— :snake: 2.2train_CORA.py
-
-———————— :snake: data_load_mos.py
-
-———————— :snake: data_load_mos_corr.py
-
-———————— :snake: model_ARKP.py
-
-———————— :snake: model_CORA.py
-
-———————— :snake: util.py
-
-———— :file_folder: data
-
-———————— :file_folder: WPC
-
-———————————— :file_folder: Distortion_ply
-
-———————————— :snake: rename_error_file.py
-
-———————————— :1234: mos.xls
-
-———————————— :1234: test.xls
-
-———————————— :1234: train.xls
-
-———— :file_folder: images
-
-———— :newspaper: README.md
+```sh
+———— 📁 code
+———————— 🐍 1.1pc_to_patch.py
+———————— 🐍 1.2patch_list_create.py
+———————— 🐍 1.3train_ARKP.py
+———————— 🐍 2.1patch_list_rank.py
+———————— 🐍 2.2train_CORA.py
+———————— 🐍 data_load_mos.py
+———————— 🐍 data_load_mos_corr.py
+———————— 🐍 model_ARKP.py
+———————— 🐍 model_CORA.py
+———————— 🐍 util.py
+———— 📁 data
+———————— 📁 WPC
+———————————— 📁 Distortion_ply
+———————————— 🐍 rename_error_file.py
+———————————— 🔢 mos.xls
+———————————— 🔢 test.xls
+———————————— 🔢 train.xls
+———— 📁 images
+———— 📰 README.md
+```
 
 ### 2. Data Preparation
 
