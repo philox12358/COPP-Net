@@ -1,9 +1,8 @@
 # COPP-Net
 
-Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ksiresearchorg.ipage.com/seke/seke23paper/paper185.pdf)
+Conference Paper: [No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ksiresearchorg.ipage.com/seke/seke23paper/paper185.pdf)   , One of the best papers of  [SEKE 2023](https://ksiresearch.org/seke/seke23.html)
 
-Conference:  [SEKE 2023](https://ksiresearch.org/seke/seke23.html)  One of the best papers.
-
+Journal Paper: [COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction](https://ieeexplore.ieee.org/abstract/document/11131459) 
 
 <div align="center">
   <img src="./images/COPP-Net.png" alt="Logo" width="950">
@@ -106,6 +105,8 @@ For experiments with other data sets and other experiment settings, please modif
 
 ## Bibtex
 If this work is helpful for your research, please consider citing the following BibTeX entry.
+
+Conference Paper:
 ```bibtex
 @inproceedings{cheng2023no,
   title={No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction},
@@ -116,3 +117,13 @@ If this work is helpful for your research, please consider citing the following 
 }
 ```
 
+Journal Paper:
+```bibtex
+@article{zhu2025copp,
+  title={COPP-Net: No-Reference Point Cloud Quality Assessment via Weighted Patch Quality Prediction},
+  author={Zhu, Linxia and Cheng, Jun and Wang, Xu and Su, Honglei and Yuan, Hui and Song, Jiarun and Korhonen, Jari},
+  journal={IEEE Transactions on Broadcasting},
+  year={2025},
+  publisher={IEEE}
+}
+```
